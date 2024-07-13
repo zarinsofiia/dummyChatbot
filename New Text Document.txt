@@ -1,0 +1,39 @@
+# Chatbot App
+
+This is a simple chatbot web app where you can interact with a chatbot named Bob.
+
+## Features
+
+- Bob answers 'Sure.' if you ask him a question.
+- He answers 'Whoa, chill out!' if you yell at him.
+- He retorts 'Calm down, I know what I'm doing!' if you yell a question at him.
+- He says 'Fine. Be that way!' if you address him without actually saying anything.
+- He answers 'Whatever.' to anything else.
+
+## Installation
+
+1. Clone the repository
+    ```bash
+    git clone https://github.com/yourusername/chatbot-app.git
+    cd chatbot-app
+    ```
+
+2. Install dependencies
+    ```bash
+    npm install
+    ```
+
+3. Start the app
+    ```bash
+    npm start
+    ```
+
+4. Open your browser and go to `http://localhost:3000`
+
+## Deployment
+
+You can deploy this app on any static hosting service like GitHub Pages, Vercel, Netlify, etc.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
